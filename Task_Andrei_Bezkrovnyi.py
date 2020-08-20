@@ -9,5 +9,5 @@ while True:
 def rev_mass(arr):
   result = list(reversed(arr)) # reversing the array
   return result
- # displaying the reversed array
+# displaying the reversed array
 print(rev_mass(arr)) 
